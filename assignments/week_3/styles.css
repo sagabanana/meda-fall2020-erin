@@ -1,0 +1,76 @@
+/*
+css:  Cascading Styles Sheets
+
+    css parts:
+    selector
+    rules: property & value
+
+    {} are the containers
+*/
+/* ex
+body {
+    background-color: yellow;
+}
+
+p {
+    color: purple;
+    font-size: 72px; 
+}
+*/
+
+#firstDiv {
+    background-color: grey;
+    margin: 10px;
+}
+
+#pizza {
+    background-color: red;
+}
+
+
+/* This box is exactly 300 pixels wide b/c we add the width, borders for each side, and paddings together to end up with 300 pixels.
+
+actual height = (height + padding top + padding bottom) + (boder-width*2)
+
+actual width = (width + paddingleft+ paddingright) +(boder*2)
+
+
+actual height = (height) + (border-width*2)
+              = (290) + ( 5+5)
+actual width = (width + paddingleft+ paddingright) +(boder*2)
+        300   = (266 + 12 + 12) + (5*2)
+*/
+.box{
+    width: 266px; 
+    height: 290px;
+    background-color: cornsilk;
+    border-style: solid;
+    border-width: 5px; /* (l)5+(r)5=10 px */
+    border-color: purple;
+    margin-top: 50px;
+    margin-left: auto; /*'auto'; 'horizontally centered'*/
+    margin-right: auto; /*'auto'* 'horizontally centered'*/
+    margin-bottom: 25px; 
+    padding-left: 12px; /* padding: it pushes from left to right, top to bottom, right to left, bottom to top; indent inside the box "This ..."*/
+    padding-right: 12px; /* padding is a space between content, it is own content by itself
+    margin is a space between the elements*/
+    /*padding-top: 100px;*/
+    /* html/css/js cheetsheet https://htmlcheatsheet.com/ 
+    */
+    
+}
+
+#special-paragraph {
+    font-size: 24px;
+    font-family: "Arial"; /*any sugestion shortcut: 'control' and 'space bar'*/
+    color: purple;
+    /*text-decoration: overline underline;*/
+    /* overwriting the last line of code; text-decoration: line-through;*/
+    font-weight: bold; /*each font support max size; 'arial' only supports ~700 and 'normal' is the default size or 'font weight'*/
+    font-style: italic;
+    line-height: 48px; 
+    text-align: center;
+    /*direction: rtl;
+    text-align: justify(expands the line; fill up the line the box)
+    *unicode-bidi:bidi-override;*/
+}

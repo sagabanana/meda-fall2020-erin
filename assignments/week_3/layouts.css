@@ -57,3 +57,10 @@ but for beginners we are doing -
     padding: 20px;
     border: 1px solid red /*shorthand for border-width, border-style and border-color; */
 }
+
+.gallery {
+    width: 117px;
+    height: 200px;
+    background-color: silver;
+    display: inline-block;
+}

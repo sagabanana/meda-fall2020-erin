@@ -1,0 +1,59 @@
+/*normally we would have a parent div holding #header, #main, #footer so we can apply margin-left and margin-right to this parent div instead of every div on the webpage.*/
+/* normally - <div>
+  <div #header></div>
+  <div #main></div>
+  <div #footer></div>
+</div>  
+(so you can apply 'margin-left' & '-right' at the parent instead doing it in every div; children inherit from parent)
+
+but for beginners we are doing -
+
+<div #header></div>
+<div #main></div>
+<div #footer></div>
+*/
+
+#header {
+    width: 700px;
+    height: 200px;
+    background-color: blanchedalmond;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#main {
+    width: 660px;
+    height: 1000px;
+    background-color: lightgrey;
+    margin-left: auto; /*only wanted margin-left and right*/
+    margin-right: auto;
+    padding: 20px; /*shorthand padding-right,left, bottom, top*/
+}
+
+
+#footer {
+    width:700px;
+    height: 50px;
+    background-color: grey;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#sidebar {
+    width: 150px;
+    height: 1000px;
+    background-color: skyblue;
+    display: inline-block;
+}
+
+#article {
+    width: 468px; /*takes into consideration padding and border size, should total  510px */
+    height: 958px; /*takes into consideration padding and border size, should total 1000px */
+    background-color: pink; /*suggestion shorthand ctrl+space*/
+    display: inline-block;
+    vertical-align: top;
+    padding: 20px;
+    border: 1px solid red /*shorthand for border-width, border-style and border-color; */
+}

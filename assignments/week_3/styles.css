@@ -17,7 +17,7 @@ p {
     font-size: 72px; 
 }
 */
-
+/*# for id, class, '.' ex: '.box'*/
 #firstDiv {
     background-color: grey;
     margin: 10px;
@@ -55,8 +55,8 @@ actual width = (width + paddingleft+ paddingright) +(boder*2)
     padding-right: 12px; /* padding is a space between content, it is own content by itself
     margin is a space between the elements*/
     /*padding-top: 100px;*/
-    /* html/css/js cheetsheet https://htmlcheatsheet.com/ 
-    */
+    
+    font-family: "Calibri";
     
 }
 
@@ -69,8 +69,19 @@ actual width = (width + paddingleft+ paddingright) +(boder*2)
     font-weight: bold; /*each font support max size; 'arial' only supports ~700 and 'normal' is the default size or 'font weight'*/
     font-style: italic;
     line-height: 48px; 
-    text-align: center;
+    text-align: justify;
     /*direction: rtl;
     text-align: justify(expands the line; fill up the line the box)
     *unicode-bidi:bidi-override;*/
 }
+/* no <> bracket used in element CSS*/
+img{
+
+}
+.last {
+    font-size: 100px;
+}
+
+
+/* html/css/js cheetsheet https://htmlcheatsheet.com   http://species-in-pieces.com/#  / 
+    */

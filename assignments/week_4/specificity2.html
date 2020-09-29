@@ -1,0 +1,66 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Understanding specificity</title>
+
+  <!-- external stylesheet, the css code is in another file.-->
+  <link rel="stylesheet" href="specificity2.css">
+
+  <!-- internal stylesheet, the css is located right inside the same HTML file. -->
+  <style>
+      body {
+          background-color: pink;
+          margin: 100px;
+      }
+ 
+      h1 {
+          font-size: 100px;
+      }
+
+      a {
+          color: aqua;
+      }
+  </style>
+
+  <link />
+
+  <style></style>
+
+
+</head>
+
+<body>
+    <a href="a">duckduckgo.com</a>
+
+    <header>
+        <div></div>
+    </header>
+  
+    <div>
+        <p><a href="#">bing.com</a></p>
+        
+        <div>
+            
+            <p class="bold">Hello</p>
+
+            <ul>
+                <li><a href="#">google.com</a></li>
+            </ul>
+
+            <p><a href="#" class="bold">yahoo.com</a><p>
+            
+        </div>
+    </div>
+  <!-- inline CSS styles, no selectors, as it selects the element it is located in.-->
+  <footer style="border: dashed red 2px; margin: 20px;">
+      <div></div>
+  </footer>
+
+</body>
+</html>
+
+<!-- https://www.sitepoint.com/a-basic-html5-template/ -->
+<!-- https://www.webdesignmuseum.org/web-design-history -->

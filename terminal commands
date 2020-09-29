@@ -1,0 +1,64 @@
+to pull -
+pwd = print working directory; directory file path
+cd ~ = go home
+ls
+cd documents
+ls
+cd meda-fall2020-eduardo (tab)
+ls
+git pull
+
+to push -
+1)cd doc
+2)ls 
+3)erinsong@Erins-MacBook-Pro meda-fall2020-erin %
+4)git add -A
+or
+(git add .)
+5)git commit - m “message; anchor html elements”
+6)git push
+
+To push -
+git add . = add all file inmediate level in the current folder or
+git add -A = add eveything including sub folder
+git status = check status
+git commit = commit the file that add (have to add commit comment)
+git commit -m "message" = commit all file added with the massage
+git push
+
+
+The very first time Git push set up-
+(at first git needs to know where push file needs to go)
+git init
+git add .
+git commit -m “my first commit”
+git remote add origin https://github.com/sagabanana/meda-fall2020-erin.git
+git push -u origin master
+
+Second commit:
+git add .
+git commit -m “my second commit”
+git push
+
+~ = represents the current user home folder
+..  = represents the parent folder of the current folder
+cd = “change directory”
+ls = “list items in directory”
+. = the folder itself
+:qa! = to get out file
+cd .. change directory to the previous folder or root folder (just like you click back on the web browser)
+cd ~ change directory to the home directory (just like you click home icon on your webbrowser)
+create file, commit on git
+moving around cd and ls
+
+HTML/CSS
+
+in HTML, the <div> tag is used as a container for HTML elements - which is then styled with CSS or manipulated with JavaScript
+
+to ‘contain’ lang, pic, background specifically contain section to change style
+
+project photo ‘reading’ image by:  https://www.pexels.com/photo/woman-leaning-on-bookshelf-2761017/
+
+
+
+

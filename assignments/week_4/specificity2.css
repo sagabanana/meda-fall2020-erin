@@ -1,0 +1,91 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: darksalmon; /*!important;*/
+}
+
+/* 10002 points; footer(1) + div(1) + !important(10,000) */
+footer div {
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+}
+body footer div {
+    background-color: orange;
+}
+
+html body footer div {
+    background-color: silver;
+}
+
+header div {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+a {
+    color: purple;
+}
+a {
+    color: orange;
+}
+
+div a {
+    color: red;
+
+}
+
+p a {
+    color: pink;
+
+}
+
+/* select all anchors which have an ancestor of paragraph, but this paragraph needs to have a PARENT of div, which in turn also needs a div PARENT
+*/
+div > div > p a {
+    color: greenyellow;
+}
+
+/* select all anchors which have a parent of paragraph */
+p > a {
+    font-size: 24px;
+}
+
+.bold {
+    text-decoration: overline;
+}
+
+/* select only the anchors with the bold class */
+a.bold {
+    font-weight: bold;
+}
+/* p#specialtext = 1,0,1
+#specialtext = 1, 0, 0
+*/
+
+/* select the id of special-text, but whoever holds it must be a paragraph element. */
+p#special-text {
+
+}
+/* select the id of special-text, and this element needs to have an ancestor of a paragraph.*/
+p #special-text {
+
+}
+/* select all paragraphs, and all anchors */
+p, a {
+    /*paragraph or anchor
+    difference b/w 'p, a{}' and 'p a{}' is ','=multiselection
+    */
+}
+
+
+
+/* element=1, class=10, ID=100, !important=10,000 points
+https://specifishity.com/
+
+hw -
+https://inkscape.org/
+https://krita.org/en/
+
+*/

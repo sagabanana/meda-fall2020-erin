@@ -1,0 +1,115 @@
+﻿Erin Song Portfolio design brief
+
+
+
+
+
+
+I cannot decide exactly what colors will go where right now, but I would like to use shades of green, yellow, orange to fuscia, blue, white, and black or gray.  Green gives me energy, feels refreshing while blue feels cool, calming to me.  I will use lighter tone of these selected colors for the background and the darker tones for the fonts or small boxes inside my websites so the texts are easy to read.   I added orange and fuchsia to give a strong, striking contrast to green, blue and yellow tones - I will have to test and see where they’d be placed.  I find white, black and gray can go anywhere and may choose to use them as default color for fonts, background colors for headers, main or footer.  
+
+
+I went ahead colored with these chosen colors to test and see how it feels together, on the other hand, I know these may not transfer exactly on the screen.  Not to mention crayons colors and digital colors feel quite  different even when they are the same color.  I must add I like simple design - simple means easy to find, it helps the user to focus and guide what I want to show them with a few things resulting good retention.  Simple design is efficient and complete.  It is very difficult to be simple, it takes time to get rid of unnecessary, what I don’t need from my work. 
+
+
+
+
+
+
+
+
+HOME
+
+
+“Welcome to my website!”
+
+
+ABOUT ME
+
+
+Hello, my name is Erin Song. I am a technology and education consultant. I have a BS in Education, studied towards MS in Education.  In the past, I've worked as a corporate communications consultant, an education consultant to a teaching specialist.  As an observant educator-learner, I couldn't help but notice the rapidly growing importance of technology in daily living and how crucial it is to acquire the skills and understanding to become a responsible learner for the future.  This epiphany, awakening, in turn started 2018, I applied to Bertelsmann Data Science Challenge scholarship and accepted into the challenge scholarship Phase I and, again, Phase II, I was top 10 % who earned Data Foundation Nanodegree via Udacity and last year I earned another scholarship via Facebook, Secure & Private AI which allowed me to learn and create an education tool called MineTorch, a Deep Learning Programming platform for kids by building GUI, Block programming wrapper, NN Creation API and PyTorch with my team.  My team and I applied and competed for Global PyTorch Summer Hackathon 2019 and won Third place at Facebook, Menlo Park. In addition, I am an event organizer for OpenMind, Raleigh Triangle Park.  When my son was in his elementary school I volunteered at Coding Club to help children to learn to code using Scratch. 
+
+
+I didn't go to school for computer science or Information Technology but studied education as I mentioned earlier.  After graduation, I taught English overseas in Korea to elementary students in a private school, returned home to North Carolina taught English to the international engineers at Cisco in Raleigh Triangle Park, North Carolina. Then after I started a family, now I am a mom to a beautiful boy who loves to read and also loves to play video games online from Minecraft to fortnite ... etc. with his friends wearing a headphone communicating virtually.  I consider myself a late tech-bloomer -- an admirer of technology, developers, engineers, and decision makers as they are like wizards making our wishes come true -- who felt the importance and the impact in our daily life as I watch my child grow up, especially, this year going to school online from the pandemic to playing video games with his friends, our deep interdependence on it, I think having a child can spark a wonder - you cannot help but care, pay attention to our surroundings and keep a watchful eye for the future.  I had a moment that I must educate myself with technology to help and support my child which was really a turning point in my life.  I am keenly aware of the fast change of technology; personal and communal need to respond to this challenge through open-mindedness, curiosity, flexibility, learning, unlearning and to make change. I want to make a career out of this very need and be part of the solution, a confident creator, a fearless innovator.  I am an advocate to bridge the growing gap between the tech communities to the non-tech communities.
+
+
+PROJECTS
+
+
+Undecided what kind of projects I will place them here yet.  I want to make this page something I enjoy doing.  
+
+
+CONTACT
+
+
+You can email me at my email address and check out my Linkedin!
+
+
+
+
+
+
+
+
+3 Portfolios - 3 likes and dislikes 
+
+
+The 3 portfolios I found had somewhat hard to define, abstract look of websites and an one long webpage.  Initially, I tried to write down identified header, main and footer but it wasn’t clear, for example, one contained a drawn image resonates a face on the top right corner as part of the header.  So I decided to screenshot these 3 webpages identified, and marked from header, main to footer.
+
+
+
+
+1. http://www.designbyface.com
+3 likes: 1) Simplicity, 2) clarity, and 3) the style of design
+3 dislikes: 1) it doesn’t always respond intuitively; when I click on the header, facelike drawing and one of the footers, ‘Co’ it uploads, but it doesn’t move to the next webpage, 2) the presentation appears to be precise, but the delivery of their message isn’t always straightforward, 3) wish the languages were inclusive, i.e. adding Spanish - it has Mexican flag on the company’s description, but the page only runs in English
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+2. http://www.justinaguilar.com/index.html
+3 likes: 1) The webpage shows Justin’s talents and skilled work, 2) he has unique features such as a yellow dot instead of an arrow or a gloved hand, 3) at the end, he shared and linked his fiance’s webpage and his hobby/work on Instagram
+3 dislikes: 1) Too many information that overwhelms the viewer, 2) writing in yellow in the header doesn’t appear to be reader-friendly, 3) his work feels like screaming at the viewers at the end unintentionally
+
+
+
+
+
+
+
+
+Header:
+  
+  
+
+
+        Main:  “Selected Design Work” to “Bell Let’s Talk Day”
+
+
+Footer:   
+
+
+3. http://www.mynus.sk
+3 likes: 1) The header word:  “Design is Bond” in neon green - simple and clear message, 2) spaciousness between the presentations, 3) creative word concept; instead of ‘previous’, ‘back’ or ‘next’ mynus uses ‘one back’ and ‘one more’
+3 dislikes: 1) mynus playfulness could feel immature and childish, 2) mynus style seems ordinary and common, 3) mynus doesn’t share his (or her) identity fully, which makes me  about this person - no name except mynus and lives in Europe.  
+
+
+Header:
+  
+
+
+
+Main:  Starting from’ An Appetizing Life’ to ‘Slovak Alliance of Modern Commerce
+
+
+Footer:
